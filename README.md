@@ -12,6 +12,6 @@ INPUT: ~100-240V 50/60Hz
 OPERATIONAL: ~90-260V 48-62Hz
 
 Main Capacitor: 400V/33uF
-Compatibile Capacitor: 400V/1uF
+Compatibile Country Capacitor: 400V/1uF
 Controller set: HX1314G (L7805 alternative set)
 Tracking head set of Picture: 25V/680uF
